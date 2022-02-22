@@ -4,7 +4,7 @@
   "description": "API for developer",
   "main": "index.js",
   "scripts": {
-    "js": "json-server --watch db.json --port 5050"
+    "js": "json-server --watch db.json"
   },
   "repository": {
     "type": "git",
