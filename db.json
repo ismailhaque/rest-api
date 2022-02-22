@@ -40,46 +40,6 @@
                 "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
                 "category": "jewelery",
                 "image": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg"
-            },
-            {
-                "id": 6,
-                "title": "Solid Gold Petite Micropave ",
-                "price": 168,
-                "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
-                "category": "jewelery",
-                "image": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg"
-            },
-            {
-                "id": 7,
-                "title": "White Gold Plated Princess",
-                "price": 9.99,
-                "description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her. Gifts to spoil your love more for Engagement, Wedding, Anniversary, Valentine's Day...",
-                "category": "jewelery",
-                "image": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg"
-            },
-            {
-                "id": 8,
-                "title": "Pierced Owl Rose Gold Plated Stainless Steel Double",
-                "price": 10.99,
-                "description": "Rose Gold Plated Double Flared Tunnel Plug Earrings. Made of 316L Stainless Steel",
-                "category": "jewelery",
-                "image": "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg"
-            },
-            {
-                "id": 9,
-                "title": "WD 2TB Elements Portable External Hard Drive - USB 3.0 ",
-                "price": 64,
-                "description": "USB 3.0 and USB 2.0 Compatibility Fast data transfers Improve PC Performance High Capacity; Compatibility Formatted NTFS for Windows 10, Windows 8.1, Windows 7; Reformatting may be required for other operating systems; Compatibility may vary depending on user’s hardware configuration and operating system",
-                "category": "electronics",
-                "image": "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_.jpg"
-            },
-            {
-                "id": 10,
-                "title": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
-                "price": 109,
-                "description": "Easy upgrade for faster boot up, shutdown, application load and response (As compared to 5400 RPM SATA 2.5” hard drive; Based on published specifications and internal benchmarking tests using PCMark vantage scores) Boosts burst write performance, making it ideal for typical PC workloads The perfect balance of performance and reliability Read/write speeds of up to 535MB/s/450MB/s (Based on internal testing; Performance may vary depending upon drive capacity, host device, OS and application.)",
-                "category": "electronics",
-                "image": "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg"
             }
     ],
     "students" : [
@@ -153,92 +113,7 @@
             "ss"          : 90, 
             "rel"         : 80,
             "image"       : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9gp-_ECxjxKvd9UosODbT3mw2JV9_M_2Qwg&usqp=CAU"
-        },
-        {
-            "roll"        : 6,
-            "name"        : "Md Setu",
-            "age"         : 15, 
-            "location"    : "Uttara",
-            "gender"      : "Male",
-            "bn"          : 20,
-            "en"          : 90, 
-            "math"        : 78,
-            "s"           : 37, 
-            "ss"          : 23, 
-            "rel"         : 80,
-            "image"       : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzKBdxj4Obd4XBlUOpT7haeV6x7INZbMLPWw&usqp=CAU"
-        },
-        {
-            "roll"        : 7,
-            "name"        : "Md Sadakatul",
-            "age"         : 16, 
-            "location"    : "Majhina",
-            "gender"      : "Male",
-            "bn"          : 67,
-            "en"          : 50, 
-            "math"        : 78,
-            "s"           : 87, 
-            "ss"          : 23, 
-            "rel"         : 80,
-            "image"       : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZM2Bo80MNui7O5IsxgYBvr25QnvrRNHL9sA&usqp=CAU"
-        },
-        {
-            "roll"        : 8,
-            "name"        : "Md Naimul",
-            "age"         : 14, 
-            "location"    : "Angra",
-            "gender"      : "Male",
-            "bn"          : 67,
-            "en"          : 40, 
-            "math"        : 78,
-            "s"           : 87, 
-            "ss"          : 90, 
-            "rel"         : 90,
-            "image"       : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM-31eNbthR2DmKQ8WEk_9oOd_BPrRFfZKeA&usqp=CAU"
-        },
-        {
-            "roll"        : 9,
-            "name"        : "Ms. Munni",
-            "age"         : 13, 
-            "location"    : "Jibonpur",
-            "gender"      : "Female",
-            "bn"          : 20,
-            "en"          : 90, 
-            "math"        : 78,
-            "s"           : 87, 
-            "ss"          : 23, 
-            "rel"         : 80,
-            "image"       : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7gRzj_8KKXfCYDSGRDiOj4uAEgj7bWVPT5g&usqp=CAU"
-        },
-        {
-            "roll"        : 10,
-            "name"        : "Ms. Ranu",
-            "age"         : 14, 
-            "location"    : "Majhina",
-            "gender"      : "Female",
-            "bn"          : 80,
-            "en"          : 90, 
-            "math"        : 78,
-            "s"           : 87, 
-            "ss"          : 33, 
-            "rel"         : 80,
-            "image"       : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0qdR75o88kuYWDiL8vNqR_pmo33eay6W2Tg&usqp=CAU"
-        },
-        {
-            "roll"        : 11,
-            "name"        : "Ms. Ayesha",
-            "age"         : 18, 
-            "location"    : "Angra",
-            "gender"      : "Female",
-            "bn"          : 40,
-            "en"          : 90, 
-            "math"        : 78,
-            "s"           : 87, 
-            "ss"          : 53, 
-            "rel"         : 80,
-            "image"       : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8lbWhDZt71zSftOtZRqFRJQ5lmUo99igmEA&usqp=CAU"
         }
-    
     ],
     "devs" : [
 
@@ -280,66 +155,6 @@
             "location"    : "Majhina",
             "income"      : "male",
             "image"       : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2YEGob4PMuihndH9ISpQolZwUsN-lBUYkXCb53Cyz43ksl9-8DsmPZL2yGCOnq4WJiDE&usqp=CAU"
-        },
-        {
-            "id"          : 5,
-            "name"        : "Md Sifat",
-            "age"         : 40,
-            "skill"       : "WordPress",
-            "location"    : "Bagjana",
-            "income"      : 650,
-            "gender"      : "male",
-            "image"       : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJib2JFgoCclYpKcZN1TmsUWaV7mp5aj9qRN-qYfUZhW8ARWLPR880AFZvIs41uUoB1dY&usqp=CAU"
-        },
-        {
-            "id"          : 6,
-            "name"        : "Md SEtu",
-            "age"         : 30,
-            "skill"       : "java",
-            "location"    : "Jibonpur",
-            "income"      : 800,
-            "gender"      : "male",
-            "image"       : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTacNUMyMgxdYf7lnm-ysInSJg7RFeB6o7BxIzr59rOZecFrGR1QClvNI3Pim42LIldh1c&usqp=CAU"
-        },
-        {
-            "id"          : 7,
-            "name"        : "Mst. Ayesha",
-            "age"         : 20,
-            "skill"       : "php",
-            "location"    : "Jibonpur",
-            "income"      : 800,
-            "gender"      : "Female",
-            "image"       : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUt532-vasHAHrZbVSgRI6nyY6KLH2k_nRLQ&usqp=CAU"
-        },
-        {
-            "id"          : 8,
-            "name"        : "Mst. mukta",
-            "age"         : 20,
-            "skill"       : "Laravel",
-            "location"    : "rajshahi",
-            "income"      : 950,
-            "gender"      : "Female",
-            "image"       : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDjdLxPJ3DS21GMcW47tOHBoay9gfE_mEDdA&usqp=CAU"
-        },
-        {
-            "id"          : 9,
-            "name"        : "Md Najmul",
-            "age"         : 20,
-            "skill"       : "Django",
-            "location"    : "bogura",
-            "income"      : 450,
-            "gender"      : "male",
-            "image"       : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFpqFItZD_FxON5dpN3JlEgQs1Pe7MzMgUpg&usqp=CAU"
-        },
-        {
-            "id"          : 10,
-            "name"        : "Md Ridoy",
-            "age"         : 50,
-            "skill"       : "java",
-            "location"    : "Dhaka",
-            "income"      : 600,
-            "gender"      : "male",
-            "image"       : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRBd9qgFwzjIjtc1gXXk1FOrwmvylF0SPVEw&usqp=CAU"
         }
     ]
 }
